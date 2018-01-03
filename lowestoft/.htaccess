@@ -1,0 +1,3 @@
+AddType x-httpd-php53 .php
+RewriteEngine On
+RewriteRule ^(.*)$ http://www.printeron.net/suffolklibraries/lowestoft [R=301,L]
